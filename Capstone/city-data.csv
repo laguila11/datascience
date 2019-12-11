@@ -1,0 +1,63 @@
+Fact,"McKinney city, Texas","Frisco city, Texas","Plano city, Texas"
+"Population estimates, July 1, 2018,  (V2018)","191,645","188,170","288,061"
+"Population estimates base, April 1, 2010,  (V2018)","131,160","117,170","259,857"
+"Population, percent change - April 1, 2010 (estimates base) to July 1, 2018,  (V2018)",46.10%,60.60%,10.90%
+"Population, Census, April 1, 2010","131,117","116,989","259,841"
+"Persons under 5 years, percent",7.70%,6.60%,5.50%
+"Persons under 18 years, percent",29.60%,31.60%,23.40%
+"Persons 65 years and over, percent",9.40%,7.50%,12.10%
+"Female persons, percent",51.20%,50.80%,50.90%
+"White alone, percent",77.30%,69.40%,67.00%
+"Black or African American alone, percent",11.50%,7.40%,8.30%
+"American Indian and Alaska Native alone, percent",0.40%,0.40%,0.50%
+"Asian alone, percent",6.20%,16.80%,19.40%
+"Native Hawaiian and Other Pacific Islander alone, percent",0.00%,0.10%,0.10%
+"Two or More Races, percent",2.60%,3.60%,2.90%
+"Hispanic or Latino, percent",18.40%,12.40%,14.50%
+"White alone, not Hispanic or Latino, percent",61.40%,60.20%,54.90%
+"Veterans, 2013-2017","8,012","6,178","12,096"
+"Foreign born persons, percent, 2013-2017",14.70%,19.80%,25.10%
+"Housing units,  July 1, 2018,  (V2018)",X,X,X
+"Owner-occupied housing unit rate, 2013-2017",66.60%,74.00%,61.00%
+"Median value of owner-occupied housing units, 2013-2017","$255,300 ","$335,900 ","$271,300 "
+"Median selected monthly owner costs -with a mortgage, 2013-2017","$1,949 ","$2,360 ","$1,966 "
+"Median selected monthly owner costs -without a mortgage, 2013-2017",$735 ,$880 ,$791 
+"Median gross rent, 2013-2017","$1,222 ","$1,368 ","$1,243 "
+"Building permits, 2018",X,X,X
+"Households, 2013-2017","56,408","52,294","105,806"
+"Persons per household, 2013-2017",2.9,2.96,2.65
+"Living in same house 1 year ago, percent of persons age 1 year+, 2013-2017",84.30%,83.60%,87.90%
+"Language other than English spoken at home, percent of persons age 5 years+, 2013-2017",21.60%,26.40%,32.60%
+"Households with a computer, percent, 2013-2017",95.60%,98.60%,96.80%
+"Households with a broadband Internet subscription, percent, 2013-2017",87.40%,95.10%,91.90%
+"High school graduate or higher, percent of persons age 25 years+, 2013-2017",92.20%,95.80%,93.90%
+"Bachelor's degree or higher, percent of persons age 25 years+, 2013-2017",45.20%,60.30%,56.70%
+"With a disability, under age 65 years, percent, 2013-2017",4.50%,3.60%,4.20%
+"Persons  without health insurance, under age 65 years, percent",12.20%,6.80%,12.50%
+"In civilian labor force, total, percent of population age 16 years+, 2013-2017",70.30%,72.80%,70.10%
+"In civilian labor force, female, percent of population age 16 years+, 2013-2017",62.40%,63.40%,62.30%
+"Total accommodation and food services sales, 2012 ($1,000)","233,563","360,781","846,883"
+"Total health care and social assistance receipts/revenue, 2012 ($1,000)","618,368","644,981","2,962,762"
+"Total manufacturers shipments, 2012 ($1,000)","4,106,207","233,727","1,698,384"
+"Total merchant wholesaler sales, 2012 ($1,000)","705,948",D,"4,626,293"
+"Total retail sales, 2012 ($1,000)","2,507,318","2,468,696","7,682,987"
+"Total retail sales per capita, 2012","$17,506 ","$19,260 ","$28,239 "
+"Mean travel time to work (minutes), workers age 16 years+, 2013-2017",29.3,30.1,26.5
+"Median household income (in 2017 dollars), 2013-2017","$87,608 ","$120,701 ","$88,578 "
+"Per capita income in past 12 months (in 2017 dollars), 2013-2017","$37,304 ","$48,910 ","$44,855 "
+"Persons in poverty, percent",7.00%,3.90%,7.00%
+"Total employer establishments, 2017",X,X,X
+"Total employment, 2017",X,X,X
+"Total annual payroll, 2017 ($1,000)",X,X,X
+"Total employment, percent change, 2016-2017",X,X,X
+"Total nonemployer establishments, 2017",X,X,X
+"All firms, 2012","12,723","13,188","30,567"
+"Men-owned firms, 2012","6,217","7,372","15,742"
+"Women-owned firms, 2012","4,698","4,186","10,475"
+"Minority-owned firms, 2012","3,185","3,554","10,098"
+"Nonminority-owned firms, 2012","9,024","9,100","19,011"
+"Veteran-owned firms, 2012",983,998,"2,647"
+"Nonveteran-owned firms, 2012","11,155","11,468","26,154"
+"Population per square mile, 2010","2,107.70","1,892.90","3,630.00"
+"Land area in square miles, 2010",62.21,61.8,71.58
+FIPS Code,"""4845744""","""4827684""","""4858016"""
