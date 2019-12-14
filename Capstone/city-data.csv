@@ -1,4 +1,4 @@
-Fact,"McKinney city, Texas","Frisco city, Texas","Plano city, Texas"
+Fact,McKinney,Frisco,Plano
 "Population estimates, July 1, 2018,  (V2018)","191,645","188,170","288,061"
 "Population estimates base, April 1, 2010,  (V2018)","131,160","117,170","259,857"
 "Population, percent change - April 1, 2010 (estimates base) to July 1, 2018,  (V2018)",46.10%,60.60%,10.90%
@@ -43,7 +43,7 @@ Fact,"McKinney city, Texas","Frisco city, Texas","Plano city, Texas"
 "Total retail sales, 2012 ($1,000)","2,507,318","2,468,696","7,682,987"
 "Total retail sales per capita, 2012","$17,506 ","$19,260 ","$28,239 "
 "Mean travel time to work (minutes), workers age 16 years+, 2013-2017",29.3,30.1,26.5
-"Median household income (in 2017 dollars), 2013-2017","$87,608 ","$120,701 ","$88,578 "
+"Median household income (in 2017 dollars), 2013-2017",87608,120701,88578
 "Per capita income in past 12 months (in 2017 dollars), 2013-2017","$37,304 ","$48,910 ","$44,855 "
 "Persons in poverty, percent",7.00%,3.90%,7.00%
 "Total employer establishments, 2017",X,X,X
